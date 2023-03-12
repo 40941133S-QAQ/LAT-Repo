@@ -10,4 +10,4 @@
 
 ###### 	<sub>老師上課東東：https://github.com/pecu/LAT</sub>
 
-+ 作業一：
++ [作業一](https://github.com/40941133S-QAQ/LAT-Repo/blob/main/20230308/hw_20230308.ipynb)
