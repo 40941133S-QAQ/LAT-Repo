@@ -1,13 +1,13 @@
 import openai
 
-with open(r"D:\Desktop\20230315\data\程式語言_Week3_Python基礎02.txt", 'r', encoding='utf-8') as fh:
+with open("程式語言_Week3_Python基礎02.txt", encoding='utf-8') as fh:
     tmp = fh.read()
     itemlist = tmp.split(',')
 
 
 itemlist = str(itemlist)
 
-keyfile = open("D:\Desktop\Github\chat gpt open api key.txt", "r")
+keyfile = open("D:\Desktop\程式\chat gpt open api key.txt", "r")
 key = keyfile.readline()
 
 openai.api_key = key
