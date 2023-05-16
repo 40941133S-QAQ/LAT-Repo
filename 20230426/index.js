@@ -74,7 +74,7 @@ async function MS_TextSentimentAnalysis(thisEvent){
     const sentiment = results[0].sentiment;
     const translatedSentiment = chsentiment[sentiment] || sentiment;
     const confidenceScore = results[0].confidenceScores[sentiment];
-    
+    //取主詞
     let subject = "";
     if (results[0].sentences && results[0].sentences.length > 0) {
       const sentence = results[0].sentences[0];
@@ -82,6 +82,7 @@ async function MS_TextSentimentAnalysis(thisEvent){
         subject = sentence.opinions[0].target.text;
       }
     }
+    //設定回復內容格式
     const replyText = `${translatedSentiment}。分數：${confidenceScore.toFixed(2)}。主詞：${subject}`;
     const echo = {
       type: 'text',
