@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Analyze Sample</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="node_modules/jquery/dist/jquery.js"></script>
+    <script src="key.js"></script>
+    <script src="main2.js"></script>
+</head>
+<body>
+    <h1>Analyze image:</h1>
+    選擇一個圖片檔案，然後按下 <strong>分析圖片</strong> 按鈕.
+    <br><br>
+    <label for="inputImageFile">選擇圖片檔案:</label>
+    <input type="file" name="inputImageFile" id="inputImageFile" data-target="file-uploader" accept="image/*" multiple>
+    <br><br>
+    <button id="analyzeButton" type="button">分析圖片</button>
+   
+
+    <div id="jsonOutput" style="width:600px;">
+        Response:
+        <br><br>
+        <textarea id="responseTextArea" class="UIInput" style="width:580px; height:400px;"></textarea>
+        <br><br>
+        <table id="colorTable" style="width:100%;">
+            <thead>
+                <tr>
+                    <th>顏色</th>
+                    <th>計數</th>
+                    <th>比例</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+    </div>
+    
+    <script src="main2.js"></script>
+</body>
+</html>
