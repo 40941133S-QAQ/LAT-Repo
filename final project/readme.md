@@ -21,4 +21,6 @@
    ![fig.5_按要求錄音_不能上傳音檔qq](https://github.com/40941133S-QAQ/LAT-Repo/blob/main/final%20project/fig.5_%E6%8C%89%E8%A6%81%E6%B1%82%E9%8C%84%E9%9F%B3_%E4%B8%8D%E8%83%BD%E4%B8%8A%E5%82%B3%E9%9F%B3%E6%AA%94qq.png)
 5. 錄好聲音後就是要定型模型，要在[錄製和組建]記錄 20 個樣本，然後按[定型模型]。這邊是請我們組員錄，然後預估訓練時間要0.8小時，很久
    ![fig.6_訓練](https://github.com/40941133S-QAQ/LAT-Repo/blob/main/final%20project/fig.6_%E8%A8%93%E7%B7%B4.png)
-
+6. 結果長這樣，他有提供一些範例輸入，出來的語音確實是組員的聲音
+   ![fig.7_結果](https://github.com/40941133S-QAQ/LAT-Repo/blob/main/final%20project/fig.7_%E7%B5%90%E6%9E%9C.png)
+   不過部署模型由於還沒取得存取權，所以還不能用
