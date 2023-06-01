@@ -9,10 +9,14 @@
 
    根據[區域](https://learn.microsoft.com/zh-tw/azure/cognitive-services/speech-service/regions#custom-neural-voices) 文件，所以我區域設在US
    
-   定價層需使用S0以上才有訓練聲音的服務
+   定價層需使用S0以上才有訓練聲音的服務(後面提到的"自訂神經語音專案")
    ![Azure認知服務_語音服務_S0](https://github.com/40941133S-QAQ/LAT-Repo/blob/main/final%20project/fig.1_azure%E8%AA%8D%E7%9F%A5%E6%9C%8D%E5%8B%99_%E8%AA%9E%E9%9F%B3%E6%9C%8D%E5%8B%99_S0!!!.png)
 2. 從語音服務進到Speech Studio，然後選"文字轉換語音"的"自訂語音"
    ![fig.2_進到speech studio_文字轉語音_自訂語音](https://github.com/40941133S-QAQ/LAT-Repo/blob/main/final%20project/fig.2_%E9%80%B2%E5%88%B0speech%20studio_%E6%96%87%E5%AD%97%E8%BD%89%E8%AA%9E%E9%9F%B3_%E8%87%AA%E8%A8%82%E8%AA%9E%E9%9F%B3.png)
 3. 建立"自訂神經語音專案"，我們是先用精簡版試看看長怎樣
    ![fig.3_自訂神經語音模型](https://github.com/40941133S-QAQ/LAT-Repo/blob/main/final%20project/fig.3_%E8%87%AA%E8%A8%82%E7%A5%9E%E7%B6%93%E8%AA%9E%E9%9F%B3%E6%A8%A1%E5%9E%8B.png)
+   不過他定型資料的語言沒有繁體中文，所以我們先用簡體試試
+   ![fig.4_只有檢體QQ](https://github.com/40941133S-QAQ/LAT-Repo/blob/main/final%20project/fig.4_%E5%8F%AA%E6%9C%89%E6%AA%A2%E9%AB%94QQ.png)
+   
+4. 
 
