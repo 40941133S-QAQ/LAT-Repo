@@ -11,4 +11,6 @@
    
    定價層需使用S0以上才有訓練聲音的服務
    ![Azure認知服務_語音服務_S0](https://github.com/40941133S-QAQ/LAT-Repo/blob/main/final%20project/fig.1_azure%E8%AA%8D%E7%9F%A5%E6%9C%8D%E5%8B%99_%E8%AA%9E%E9%9F%B3%E6%9C%8D%E5%8B%99_S0!!!.png)
+2. 從語音服務進到Speech Studio，然後選"文字轉換語音"的"自訂語音"
+   ![Azure認知服務_語音服務_S0](https://github.com/40941133S-QAQ/LAT-Repo/blob/main/final%20project/fig.1_azure%E8%AA%8D%E7%9F%A5%E6%9C%8D%E5%8B%99_%E8%AA%9E%E9%9F%B3%E6%9C%8D%E5%8B%99_S0!!!.png)
 
