@@ -17,6 +17,6 @@
    ![fig.3_自訂神經語音模型](https://github.com/40941133S-QAQ/LAT-Repo/blob/main/final%20project/fig.3_%E8%87%AA%E8%A8%82%E7%A5%9E%E7%B6%93%E8%AA%9E%E9%9F%B3%E6%A8%A1%E5%9E%8B.png)
    不過他定型資料的語言沒有繁體中文，所以我們先用簡體試試
    ![fig.4_只有檢體QQ](https://github.com/40941133S-QAQ/LAT-Repo/blob/main/final%20project/fig.4_%E5%8F%AA%E6%9C%89%E6%AA%A2%E9%AB%94QQ.png)
-   
-4. 
+4. 再來就是照他步驟錄聲音，不能用上傳的。(我原本是想用老師的聲音，這樣期末成果影片放出來是老師的聲音就很好笑)
+   ![fig.5_按要求錄音_不能上傳音檔qq](https://github.com/40941133S-QAQ/LAT-Repo/blob/main/final%20project/fig.5_%E6%8C%89%E8%A6%81%E6%B1%82%E9%8C%84%E9%9F%B3_%E4%B8%8D%E8%83%BD%E4%B8%8A%E5%82%B3%E9%9F%B3%E6%AA%94qq.png)
 
