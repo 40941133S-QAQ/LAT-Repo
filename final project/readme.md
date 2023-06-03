@@ -7,7 +7,7 @@
 + **步驟：**(使用[自訂神經語音專案])
 1. 在Azure建立語音服務：
 
-   根據[區域](https://learn.microsoft.com/zh-tw/azure/cognitive-services/speech-service/regions#custom-neural-voices) 文件，所以我區域設在US(東亞不行)
+   根據[區域](https://learn.microsoft.com/zh-tw/azure/cognitive-services/speech-service/regions#custom-neural-voices) 文件，所以我區域設在US(東亞East Asia不行)
    
    定價層需使用S0以上才能使用[自訂神經語音專案]服務
    ![Azure認知服務_語音服務_S0](https://github.com/40941133S-QAQ/LAT-Repo/blob/main/final%20project/fig.1_azure%E8%AA%8D%E7%9F%A5%E6%9C%8D%E5%8B%99_%E8%AA%9E%E9%9F%B3%E6%9C%8D%E5%8B%99_S0!!!.png)
