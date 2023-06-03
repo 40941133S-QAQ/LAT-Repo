@@ -24,4 +24,6 @@
 6. 結果長這樣，他有提供一些範例輸入，出來的語音確實是組員的聲音
    ![fig.7_結果](https://github.com/40941133S-QAQ/LAT-Repo/blob/main/final%20project/fig.7_%E7%B5%90%E6%9E%9C.png)
 7. 測試模型
+   可以自行輸入文字測試
+   ![fig.8_測試](https://github.com/40941133S-QAQ/LAT-Repo/blob/main/final%20project/fig.8_%E6%B8%AC%E8%A9%A6.png)
     
